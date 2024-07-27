@@ -11,12 +11,11 @@
 #   - board: nice_nano_v2
 #     shield: reviung41
 #
-#adsfas
 ---
 include:
-  - board: sparkfun_pro_micro_rp2040
+  - board: nice_nano_v2
     shield: swoop_left
-  - board: sparkfun_pro_micro_rp2040
+  - board: nice_nano_v2
     shield: swoop_right
-  - board: sparkfun_pro_micro_rp2040
+  - board: nice_nano_v2
     shield: settings_reset
